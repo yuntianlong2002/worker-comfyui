@@ -1,0 +1,89 @@
+{
+  "comfyui": "3bfe4e527665d71a3cc88fe06e2733209602ae3a",
+  "git_custom_nodes": {
+    "https://github.com/ltdrdata/ComfyUI-Manager.git": {
+      "hash": "f1e4760dee67966cd86c2e3898c4e7248fdf4b3b",
+      "disabled": false
+    },
+    "https://github.com/palant/image-resize-comfyui": {
+      "hash": "ae5888637742ff1668b6cd32954ba48d81dbd39d",
+      "disabled": false
+    },
+    "https://github.com/chaojie/ComfyUI-MotionCtrl": {
+      "hash": "919db1c3c7df6008c8d18e5e1795adedcd514bca",
+      "disabled": false
+    },
+    "https://github.com/chflame163/ComfyUI_LayerStyle": {
+      "hash": "a085d8ca3cf3e3e8624ac0bb37a474d9d329e60e",
+      "disabled": false
+    },
+    "https://github.com/kijai/ComfyUI-MimicMotionWrapper": {
+      "hash": "89d0ed551dbb1e0a14e89a01d42a39e9ed755d9c",
+      "disabled": false
+    },
+    "https://github.com/StartHua/Comfyui_segformer_b2_clothes": {
+      "hash": "681721fbea6947e7bbc4ebb6192ed60bd8b473cb",
+      "disabled": false
+    },
+    "https://github.com/jjkramhoeft/ComfyUI-Jjk-Nodes": {
+      "hash": "b3c99bb78a99551776b5eab1a820e1cd58f84f31",
+      "disabled": false
+    },
+    "https://github.com/JPS-GER/ComfyUI_JPS-Nodes": {
+      "hash": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+      "disabled": false
+    },
+    "https://github.com/jamesWalker55/comfyui-various": {
+      "hash": "ec58185387c75b74ee93d6f835ff480772dbc64d",
+      "disabled": false
+    },
+    "https://github.com/storyicon/comfyui_segment_anything": {
+      "hash": "ab6395596399d5048639cdab7e44ec9fae857a93",
+      "disabled": false
+    },
+    "https://github.com/chibiace/ComfyUI-Chibi-Nodes": {
+      "hash": "424d5fc68bd3b82fe3c491f27b0c37bb3de1d123",
+      "disabled": false
+    },
+    "https://github.com/yolain/ComfyUI-Easy-Use": {
+      "hash": "9292f2286207928cfdade99ad1634103470c0799",
+      "disabled": false
+    },
+    "https://github.com/aria1th/ComfyUI-LogicUtils": {
+      "hash": "11361414068c2e56bc8d696b05078b589803b98a",
+      "disabled": false
+    },
+    "https://github.com/zhangp365/ComfyUI-utils-nodes": {
+      "hash": "a42c2c66338442a2f67c1f23291c9c7dec7f2c33",
+      "disabled": false
+    },
+    "https://github.com/melMass/comfy_mtb": {
+      "hash": "0e48aaa3e4f1e440a5d7ab42df56b728ced03aca",
+      "disabled": false
+    },
+    "https://github.com/antrobot1234/antrobots-comfyUI-nodepack": {
+      "hash": "b124e29db14cf4fc895bf4ffc6fe57a417d298d7",
+      "disabled": false
+    },
+    "https://github.com/kijai/ComfyUI-KJNodes.git": {
+      "hash": "26aea1889d02d0bf072ac9aae0e90e5815ffa175",
+      "disabled": false
+    },
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack": {
+      "hash": "21c737581a41a0ea39078748e4f853b80798107b",
+      "disabled": false
+    },
+    "https://github.com/cubiq/ComfyUI_essentials": {
+      "hash": "9f42fafd3154c7442851ef3e70b5e2911d5a8f60",
+      "disabled": false
+    },
+    "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch": {
+      "hash": "1d93a54f8d65db4268d6af32e3d58c3d45dd505e",
+      "disabled": false
+    },
+    "https://github.com/EllangoK/ComfyUI-post-processing-nodes": {
+      "hash": "de7a29b339cd88586b54b171249b35785d20a23c",
+      "disabled": false
+    }
+  }
+}
